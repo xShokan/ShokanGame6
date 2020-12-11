@@ -1,5 +1,5 @@
-# ShokanGame5
-# 徐小康的作业5
+# ShokanGame6
+# 徐小康的作业6
 ### First UE4 Project
 自己创建的内容均在./Content/CreateByMyself文件夹中
 
@@ -38,7 +38,7 @@
 #### 演示视频和APK:
 链接：https://pan.baidu.com/s/1KHhZ1f1mTcimsUlhcarTOw 提取码：htfl 
 
-### 第五次作业
+### 第六次作业
 (材质没有上传，因为文件实在太大了)
 #### 实现功能:
 使用C+ +实现多玩家对战功能。具体包括:
